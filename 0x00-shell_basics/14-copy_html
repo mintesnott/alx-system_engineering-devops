@@ -1,1 +1,2 @@
+echo '#!/bin/bash' > 14-copy_html
 cp -nu *.html ..
