@@ -1,1 +1,1 @@
-to print current working directory
+this directory is for storing shell scripts 
